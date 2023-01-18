@@ -5,6 +5,7 @@
  * Date: 2023/01/13
  *
  */
+
 public class Main {
     public static void main(String[] args) {
         Movie movie = new Movie("Jurassic Park");
